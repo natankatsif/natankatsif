@@ -1,6 +1,6 @@
 <div align="center">
 
-**fullstack web developer & startup founder**
+**Fullstack Web Developer & Startup Founder**
 
 <a href="https://natankatsif.com"><img src="https://img.shields.io/badge/website-natankatsif.com-000000?style=flat-square&logo=safari&logoColor=white" alt="website" /></a>
 <a href="https://linkedin.com/in/natankatsif"><img src="https://img.shields.io/badge/linkedin-@natankatsif-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
